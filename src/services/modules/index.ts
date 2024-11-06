@@ -1,0 +1,5 @@
+export * from './popularMovies/popularMovies'
+export * from './movieDetails/movieDetails'
+export * from './movieCredits/movieCredits'
+export * from './searchMovie/searchMovie'
+export * from './movieReviews/movieReviews'
